@@ -2,6 +2,7 @@ body {
     background: #eee;
     top: 0;
     left: 0;
+    margin: 0;
 }
 
 
@@ -124,6 +125,121 @@ p {
     margin-bottom: 40px;
     clear: both;
 }
+
+/* Contact page styles */
+.submit {
+    background-color: #4aaaa5;
+    width: 90px;
+    height: 30px;
+    color: white;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Portfolio page styles */
+.hangman {
+    width: 270px;
+    height: 200px;
+    background-color: #777777;
+    margin-top: 30px;
+}
+
+.hangmanCaption {
+    width: 270px;
+    height: 40px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-top: 130px;
+}
+
+
+.rpgGame {
+    width: 270px;
+    height: 200px;
+    background-color: #777777;
+    margin-top: 30px;
+}
+
+.rpgGameCaption {
+    width: 270px;
+    height: 40px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-top: 130px;
+}
+
+.triviaGame {
+    width: 270px;
+    height: 200px;
+    background-color: #777777;
+    margin-top: 50px;
+}
+
+.triviaGameCaption {
+    width: 270px;
+    height: 40px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-top: 130px;
+}
+
+
+.rutgersInfo {
+    width: 270px;
+    height: 200px;
+    background-color: #777777;
+    margin-top: 30px;
+}
+
+.rutgersInfoCaption {
+    width: 270px;
+    height: 40px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-top: 130px;
+}
+
+
+.rockPaper {
+    width: 270px;
+    height: 200px;
+    background-color: #777777;
+    margin-top: 50px;
+}
+
+.rockPaperCaption {
+    width: 270px;
+    height: 40px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-top: 130px;
+}
+
 /* End of Main Text area styles */
 
 
@@ -138,7 +254,7 @@ p {
     background-color: #4aaaa5;
     height: 8px;
     width: 100%;
-    margin-top: 90px; 
+    margin-top: 60px; 
 }
 
 .footerText {
