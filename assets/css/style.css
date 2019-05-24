@@ -1,5 +1,5 @@
 body {
-    background: #eee;
+    background: rgb(222, 231, 242);
     top: 0;
     left: 0;
     margin: 0;
@@ -25,8 +25,9 @@ a:visited {
 }
 
 a:hover {
-    color: orangered;
+    color: orange;
     text-decoration: underline;
+    background-color: bisque;
 }
 
 a:active {
@@ -40,7 +41,6 @@ a:active {
     clear: both;
     top: 0;
     left: 0;
- /*   border-bottom-color: 1px solid #777777; */
 }
 
 .pageNav {
@@ -76,7 +76,7 @@ a:active {
 
 .headerRule {
     background-color: #777777;
-    height: 2px;
+    height: 1px;
     width: 100%; 
 }
 
@@ -118,7 +118,6 @@ p {
     border: 1px solid #777777;
     background-color: white;
     width: 960px;
-   /* height: 500px; */
     padding: 5px 30px 40px 30px;
     margin-top: 40px;
     margin-left: 100px;
@@ -135,6 +134,7 @@ p {
     font-size: 12px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 
 /* Portfolio page styles */
 .hangman {
